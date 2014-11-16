@@ -1,0 +1,12 @@
+3.	Hypothesis
+We are doing statistical hypothesis test from an observational study using the data we have retrieved from www.cancer.org. The data consist of the number of new cases of patients affected by cancer every year for the last five years across all the states in the US, also the number of deaths in these states in those years. 
+
+Our goal is to prove our hypotheses enumerated below:
+
+Positive: 
+1. California is the maximum risk zone state in the United States based on initial data.
+2. Prostate cancer and Breast cancer will continue to be dominant in the coming years.
+3. Lung & Bronchus cancer will be deadliest for both male and female in the US.
+                
+Negative: 
+1. California is not the maximum risk zone state if ratio by state population is considered in the data.
