@@ -1,0 +1,20 @@
+4.	Methodology
+How did we collect our data?
+Data was extracted from the American Cancer Society’s website “www.cancer.org” as .pdf documents.This data has to be processed, they had to be converted to excel files/ comma seperated files for accessing data withing these files. This processing was a must because of the pictures in the original pdf that we weren't interested in using in our project. Data warehousing was done to place all the related data together in our repository to do data analysis on that .
+
+The predictions for the year 2014 has been provided in www.cancer.org however, we are using our data mining technique to do the same because our group wants our research and analysis to be cross verified for to be more realistic.
+As stated, we used the 2014 cancer data as our data set to compare the results and we are using the 5 year data (from 2010-2014) that is also readily available in the website.
+
+Method followed:
+We used the deductive argument method while reasoning our hypotheses from the data that we massaged .
+
+Technologies/Tools used?
+For this project, we are not using a database. Since we took a lot of time deciding which data set to use, we didn’t have time to make a schema for relational database to store our data, and settled for the MS Excel to do our data manipulation instead. We are using R to project the graphs from the data that we have obtained.
+
+
+
+
+
+
+
+ 
